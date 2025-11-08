@@ -27,7 +27,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>src.DependencyVisualizer</mainClass>
+                            <mainClass>src.FirstStage</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

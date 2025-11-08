@@ -1,11 +1,10 @@
 package src;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class DependencyVisualizer {
+public class FirstStage {
 
     private static final Set<String> VALID_KEYS = Set.of(
             "--package-name", "--repo-url", "--repo-path",
