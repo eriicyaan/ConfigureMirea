@@ -18,7 +18,10 @@
 оформленным коммитом.
 ## Результат запуска
 <img width="1793" height="242" alt="image" src="https://github.com/user-attachments/assets/1b4d929a-3c03-45ce-8aac-d971cad0a24a" />
+
 ## Код программы
+
+```java
 package src;
 
 import java.io.BufferedReader;
@@ -176,4 +179,4 @@ public class SecondStage {
                 """);
     }
 }
-
+```
