@@ -934,8 +934,12 @@ if (require.main === module) {
 оформленным коммитом.
 
 ### Результаты запуска
+<img width="1345" height="603" alt="image" src="https://github.com/user-attachments/assets/ffe7932b-61e0-4cc3-945b-16a53ec0d5da" />
+<img width="1287" height="1075" alt="image" src="https://github.com/user-attachments/assets/9a2c2c71-90f5-4cc5-ba98-a80383a8b40d" />
+<img width="1405" height="382" alt="image" src="https://github.com/user-attachments/assets/dc9ffba1-a8cf-42a3-aca0-1337ee0679a4" />
+<img width="1276" height="593" alt="image" src="https://github.com/user-attachments/assets/3ab16f75-8dd0-4212-8820-5ab987811038" />
 
-
+### Код программы
 ```js
 
 const https = require('https');
